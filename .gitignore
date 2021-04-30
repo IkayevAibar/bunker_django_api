@@ -1,0 +1,8 @@
+.vscode
+venv
+/bunker/.vscode
+/bunker/settnigs.py
+
+/bunker/static
+/bunker/staticfiles
+db.sqlite3
